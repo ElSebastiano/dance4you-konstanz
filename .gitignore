@@ -1,0 +1,15 @@
+# Interne Analyse-/Recherchedateien - nicht Teil der öffentlichen Website
+phase1_analyse.md
+phase2_markenanalyse.md
+phase3_strategie.md
+phase4_umsetzung.md
+phase1-4_*.md
+*_Akquise.md
+Dance_4_You_Konstanz.md
+docs/
+
+# Bild-Duplikate (Originaldatei liegt bereits optimiert unter assets/img/)
+ChatGPT Image*.png
+
+.DS_Store
+Thumbs.db
